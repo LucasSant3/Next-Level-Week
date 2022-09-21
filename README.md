@@ -4,6 +4,8 @@
 
 Projeto construido durante o evento Next Level Week da Rocketseat.
 
+Acesse [aqui](https://lucassant3.github.io/nlw-explorer/)
+
 ## TECNOLOGIAS
 
 - HTML
